@@ -1,0 +1,24 @@
+body {
+    background-color: #005020;
+    color: #fff;
+}
+
+.titulo {
+    color: #003300;
+}
+
+.lista li {
+    background-color: #004d40;
+}
+
+.titulo-meta {
+    color: #002b20;
+}
+
+.importancia-meta {
+    color: #004080;
+}
+
+.prazo-meta {
+    color: #005cbf;
+}
