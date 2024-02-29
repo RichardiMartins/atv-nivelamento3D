@@ -1,16 +1,15 @@
 body {
-    background-color: #006400;
-    background-size: cover; 
-    color: #fff; 
+    background-color: #f2f5f2;
+    color: #333;
     font-family: Arial, sans-serif;
 }
 
 .titulo {
-    color: #008000;
+    color: #2e5732;
 }
 
 .lista {
-    background-color: #004d4d;
+    background-color: #d1e9d1;
     list-style-type: none;
     padding: 0;
 }
@@ -19,20 +18,20 @@ body {
 .item2,
 .item3,
 .item4 {
-    background-color: #00ff00;
+    background-color: #c1ecc1;
     margin-bottom: 15px;
     padding: 10px;
     border-radius: 8px;
 }
 
 .titulo-meta {
-    color: #006400;
+    color: #336633;
 }
 
 .importancia-meta {
-    color: #008080;
+    color: #458b46;
 }
 
 .prazo-meta {
-    color: #00ff00;
+    color: #5aaf5a;
 }
