@@ -1,12 +1,12 @@
 body {
-    background-color: #005050;
+    background-color: #006400;
     background-size: cover; 
     color: #fff; 
     font-family: Arial, sans-serif;
 }
 
 .titulo {
-    color: black;
+    color: #008000;
 }
 
 .lista {
@@ -19,20 +19,20 @@ body {
 .item2,
 .item3,
 .item4 {
-    background-color: #e6f7ff;
+    background-color: #00ff00;
     margin-bottom: 15px;
     padding: 10px;
     border-radius: 8px;
 }
 
 .titulo-meta {
-    color: #002b5e;
+    color: #006400;
 }
 
 .importancia-meta {
-    color: #004080;
+    color: #008080;
 }
 
 .prazo-meta {
-    color: #005cbf;
+    color: #00ff00;
 }
