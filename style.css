@@ -1,18 +1,32 @@
 body {
-    background-color: #005020;
-    color: #fff;
+    background-color: #005050;
+    background-size: cover; 
+    color: #fff; 
+    font-family: Arial, sans-serif;
 }
 
 .titulo {
-    color: #003300;
+    color: black;
 }
 
-.lista li {
-    background-color: #004d40;
+.lista {
+    background-color: #004d4d;
+    list-style-type: none;
+    padding: 0;
+}
+
+.item1,
+.item2,
+.item3,
+.item4 {
+    background-color: #e6f7ff;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 8px;
 }
 
 .titulo-meta {
-    color: #002b20;
+    color: #002b5e;
 }
 
 .importancia-meta {
